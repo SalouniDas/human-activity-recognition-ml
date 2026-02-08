@@ -1,0 +1,5 @@
+har_env/
+.ipynb_checkpoints/
+UCI HAR Dataset/
+*.csv
+
