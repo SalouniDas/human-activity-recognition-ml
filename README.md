@@ -30,7 +30,6 @@ Build a lightweight activity classifier using classical machine learning methods
 2. Feature selection
 3. Train ML models:
 
-   * Logistic Regression
    * Random Forest
    * SVM
 4. Evaluate accuracy
