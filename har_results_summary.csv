@@ -1,0 +1,3 @@
+Model,Overall Accuracy,Static Accuracy (RF),Dynamic Accuracy (RF)
+Random Forest,0.9267051238547676,0.9403846153846154,0.9113193943763518
+SVM,0.9504580929759077,,
