@@ -69,29 +69,68 @@ The models successfully classify activities such as:
 * Laying
 * Upstairs/Downstairs
 
-Random Forest achieved the best performance among tested models.
-
 ### Model Performance
 
 | Model | Accuracy |
 |-------|----------|
-| Random Forest | XX% |
-| SVM | XX% |
+| Random Forest | INSERT_RF |
+| SVM | INSERT_SVM |
 
 🏆 Best Performing Model: **Random Forest**
 
-> Update the final accuracy values after training.
+### Confusion Matrix
+
+![Confusion Matrix](results/confusion_matrix_rf.png)
+
+Shows prediction performance across all activity classes.
+
+---
+
+### Feature Importance
+
+![Feature Importance](results/feature_importance.png)
+
+Displays relative contribution of extracted sensor features.
+
+---
+### Static vs Dynamic Activities
+
+![Static vs Dynamic](results/static_vs_dynamic_accuracy.png)
+
+Comparison of recognition performance across movement categories.
+
+---
+
+### Exported Results
+
+CSV summary:
+
+```text
+har_results_summary.csv
+```
 
 ## Repository Structure
 
 ```plaintext
 human-activity-recognition-ml/
 │
+├── README.md
+├── requirements.txt
+├── .gitignore
 ├── human_activity_recognition.ipynb
 ├── features.txt
 ├── har_results_summary.csv
-├── README.md
-└── requirements.txt
+│
+├── results/
+│   ├── confusion_matrix_rf.png
+│   ├── feature_importance.png
+│   └── static_vs_dynamic_accuracy.png
+│
+├── dataset/
+│   └── dataset_link.txt
+│
+└── images/
+    └── workflow.png
 ```
 ## Installation
 
