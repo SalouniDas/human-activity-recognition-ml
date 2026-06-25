@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![Status](https://img.shields.io/badge/Status-Completed-green)
 # Human Activity Recognition using Machine Learning
 
 Classifying human activities from smartphone sensor data using classical Machine Learning techniques.
