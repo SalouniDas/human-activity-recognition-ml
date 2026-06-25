@@ -73,8 +73,8 @@ The models successfully classify activities such as:
 
 | Model | Accuracy |
 |-------|----------|
-| Random Forest | INSERT_RF |
-| SVM | INSERT_SVM |
+| Random Forest | 92.7% |
+| SVM | 95.1% |
 
 🏆 Best Performing Model: **Random Forest**
 
