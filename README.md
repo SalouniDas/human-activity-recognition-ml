@@ -125,15 +125,9 @@ human-activity-recognition-ml/
 ├── har_results_summary.csv
 │
 ├── results/
-│   ├── confusion_matrix_rf.png
-│   ├── feature_importance.png
-│   └── static_vs_dynamic_accuracy.png
-│
-├── dataset/
-│   └── dataset_link.txt
-│
-└── images/
-    └── workflow.png
+  ├── confusion_matrix_rf.png
+  ├── feature_importance.png
+  └── static_vs_dynamic_accuracy.png
 ```
 ## Installation
 
