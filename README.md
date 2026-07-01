@@ -1,8 +1,15 @@
+# Human Activity Recognition using Machine Learning
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=Human+Activity+Recognition+%7C+Sensor-Based+Machine+Learning;A+Machine+Learning+approach+to+motion+classification;End-to-end+ML+pipeline+for+real-world+activity+detection" alt="Typing SVG" />
+</p>
+----
+
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-green)
-# Human Activity Recognition using Machine Learning
 
+----
+## Overview
 Classifying human activities from smartphone sensor data using classical Machine Learning techniques.
 This project implements an end-to-end Human Activity Recognition (HAR) pipeline using smartphone accelerometer and gyroscope signals to identify everyday human activities such as walking, sitting, standing etc.
 
