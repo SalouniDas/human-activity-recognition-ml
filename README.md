@@ -1,4 +1,4 @@
-# Human Activity Recognition using Machine Learning
+# Human Activity Recognition
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=Human+Activity+Recognition+%7C+Sensor-Based+Machine+Learning;A+Machine+Learning+approach+to+motion+classification;End-to-end+ML+pipeline+for+real-world+activity+detection" alt="Typing SVG" />
 </p>
